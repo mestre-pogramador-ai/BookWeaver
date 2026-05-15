@@ -15,7 +15,7 @@
 
 <br>
 
-<img src="resources/screenshots/bookweaver_banner.png" alt="BookWeaver Banner" width="800">
+<img src="[resources/screenshots/bookweaver_banner.png](https://ibb.co/TxtGZzxP)" alt="BookWeaver Banner" width="800">
 
 **Criador de eBooks profissional inspirado no Kindle Create**
 
